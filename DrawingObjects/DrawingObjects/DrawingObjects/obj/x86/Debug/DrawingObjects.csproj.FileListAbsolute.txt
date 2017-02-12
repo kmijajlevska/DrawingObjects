@@ -1,0 +1,7 @@
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\DrawingObjects\DrawingObjects\DrawingObjects\bin\Debug\DrawingObjects.exe
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\DrawingObjects\DrawingObjects\DrawingObjects\bin\Debug\DrawingObjects.pdb
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\DrawingObjects\DrawingObjects\DrawingObjects\obj\x86\Debug\DrawingObjects.Form1.resources
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\DrawingObjects\DrawingObjects\DrawingObjects\obj\x86\Debug\DrawingObjects.Properties.Resources.resources
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\DrawingObjects\DrawingObjects\DrawingObjects\obj\x86\Debug\DrawingObjects.csproj.GenerateResource.Cache
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\DrawingObjects\DrawingObjects\DrawingObjects\obj\x86\Debug\DrawingObjects.exe
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\DrawingObjects\DrawingObjects\DrawingObjects\obj\x86\Debug\DrawingObjects.pdb
